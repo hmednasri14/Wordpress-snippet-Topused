@@ -1,5 +1,6 @@
 # PHP Snippet: Let Every Billing / Shipping / Account / Order Form Fields Update the WooCommerce Checkout Order Review
 ##Billing Fields
+
 billing_first_name
 billing_last_name
 billing_company
